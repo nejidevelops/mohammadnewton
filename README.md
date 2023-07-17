@@ -1,4 +1,4 @@
-💼 <span style="color: #fff; text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00;">I am available for hire</span>
+💼 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36E3F7&background=FF2DFE00&width=435&lines=I+am+available+for+hire)](https://git.io/typing-svg)
 
 <!-- ## 🌐 Socials: -->
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Newtonbofulo#9224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.bofulo.mkate.__) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@newtonombese1)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/newton-ombese-570862210) 
